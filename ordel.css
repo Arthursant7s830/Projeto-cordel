@@ -78,7 +78,7 @@ section.imagem {
     background-color: lightslategrey;
     color: white;
     font-family: var(--fonte2);
-    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.458);
+    box-shadow: inset 3px 3px 10px 0px rgba(0, 0, 0, 0.346);
     background-size: cover;
     background-attachment: fixed;
 }
